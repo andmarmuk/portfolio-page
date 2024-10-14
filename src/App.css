@@ -12,7 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Parisienne&display=swap');
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +35,143 @@
   to {
     transform: rotate(360deg);
   }
+}
+nav{
+ margin-top: 20px;
+  height: 60px;
+  text-align: end;
+  align-content: center;
+  margin-right: 80px;
+}
+a.nav-item{
+  display: inline-block;
+  width:120px;
+  font-size: 18px;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  color:black;
+}
+.welcome{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 130px;
+  font-weight: lighter;
+  margin: 0px;
+  margin-top: 180px;;
+}
+.portfolio{
+  font-family: 'Parisienne', cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 220px;
+  margin: 0px;
+}
+.footer-section{
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  margin: 100px;
+  margin-bottom: 30px;
+
+}
+.footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: end;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;;
+  background-color: white;
+}
+.about-section{
+  text-align: start;
+  margin-left: 80px;
+  margin-right: 80px;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+.about-text{
+  width: 40%;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+}
+.project-text{
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+.projects-text{
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+.about{
+  border-bottom: 1px solid black;
+  text-decoration: none;
+  color: black;
+}
+.ellipse{
+  display: block;
+  margin-left: 70%;
+  margin-bottom: 0px;
+}
+.hobbies{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+.hobbies-container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.grid{
+  display: flex;
+}
+.description{
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  font-size: 14px;
+  border: 1px solid black;
+  padding: 10px;
+}
+.design-develope{
+  margin: 10px;
+  padding: 10px;
+
+}
+.design-develope-container a{
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+}
+.about-section{
+  margin-bottom: 150px;
+}
+.strum{
+  display: flex;
+}
+.projects-images{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid rgb(177, 177, 177);
+  border-radius: 20px;
+}
+.cloudmine{
+  border-top: 1px solid black;
+  display: flex;
 }
