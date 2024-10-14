@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-page/static/css/main.aabd024c.css",
-    "main.js": "/portfolio-page/static/js/main.38088223.js",
+    "main.css": "/portfolio-page/static/css/main.708c3aaa.css",
+    "main.js": "/portfolio-page/static/js/main.71d11c20.js",
     "static/js/488.6a3449dc.chunk.js": "/portfolio-page/static/js/488.6a3449dc.chunk.js",
     "static/media/Instagram post - 1.gif": "/portfolio-page/static/media/Instagram post - 1.76e79182d850aa48ddc2.gif",
     "static/media/Marharyta-Mukhina-Plansza02__compressed.jpg": "/portfolio-page/static/media/Marharyta-Mukhina-Plansza02__compressed.ffb2f717536fdf1c8df7.jpg",
@@ -10,12 +10,12 @@
     "static/media/strum.jpeg": "/portfolio-page/static/media/strum.939037f1a9407baafae6.jpeg",
     "static/media/Capture.JPG": "/portfolio-page/static/media/Capture.f484cbdfaec1291dc956.JPG",
     "index.html": "/portfolio-page/index.html",
-    "main.aabd024c.css.map": "/portfolio-page/static/css/main.aabd024c.css.map",
-    "main.38088223.js.map": "/portfolio-page/static/js/main.38088223.js.map",
+    "main.708c3aaa.css.map": "/portfolio-page/static/css/main.708c3aaa.css.map",
+    "main.71d11c20.js.map": "/portfolio-page/static/js/main.71d11c20.js.map",
     "488.6a3449dc.chunk.js.map": "/portfolio-page/static/js/488.6a3449dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aabd024c.css",
-    "static/js/main.38088223.js"
+    "static/css/main.708c3aaa.css",
+    "static/js/main.71d11c20.js"
   ]
 }
