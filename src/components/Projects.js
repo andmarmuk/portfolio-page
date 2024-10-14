@@ -16,7 +16,7 @@ function Projects() {
                 src={require("./images/strum.jpeg")}
             ></img>
             </div>
-            <div className="projects-images"><img 
+            <div className="projects-image"><img 
                 height={2000}
                 src={require("./images/strum.iPhone1.jpg")}
             ></img>
