@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andmarmuk/portfolio-page/static/css/main.f2abbdcb.css",
+    "main.js": "/andmarmuk/portfolio-page/static/js/main.c1142144.js",
+    "index.html": "/andmarmuk/portfolio-page/index.html",
+    "main.f2abbdcb.css.map": "/andmarmuk/portfolio-page/static/css/main.f2abbdcb.css.map",
+    "main.c1142144.js.map": "/andmarmuk/portfolio-page/static/js/main.c1142144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2abbdcb.css",
+    "static/js/main.c1142144.js"
+  ]
+}
